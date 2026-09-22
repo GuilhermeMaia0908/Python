@@ -1,0 +1,1 @@
+possui_cnh = True # boolean (True ou False)
