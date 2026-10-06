@@ -1,0 +1,10 @@
+# Para atrair clientes, a pizzaria criou promoções que dependem do dia da semana. Sobre o valor do pedido soma-se uma taxa de entrega de R$ 5,00, exceto quando a promoção der frete grátis.
+
+Regras das promoções
+Dia	Promoção
+Terça	Sobremesa grátis 🍰 (pedidos acima de R$ 40,00)
+Quarta	15% de desconto na pizza
+Sábado e domingo	Frete grátis 🚚 (pedidos acima de R$ 100,00)
+Demais dias	Sem promoção
+O que o programa deve fazer
+Ler o dia,(texto) e o valor do pedido com input()
